@@ -1,0 +1,22 @@
+{
+  "name": "ty-hats-exercise",
+  "version": "1.0.0",
+  "description": "Create a Node.js application that takes in one parameter from the command line (process.argv[2]), which is a user's name. It then finds all the hats that belong to that user.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nycda-geeks/ty-hats-exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nycda-geeks/ty-hats-exercise/issues"
+  },
+  "homepage": "https://github.com/nycda-geeks/ty-hats-exercise#readme",
+  "dependencies": {
+    "pg": "^4.5.5"
+  }
+}
